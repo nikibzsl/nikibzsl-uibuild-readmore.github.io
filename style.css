@@ -1,0 +1,21 @@
+body{
+    background-color: #EFD592;
+}
+
+button{
+    position: absolute;
+    width: 240px;
+    height: 50px;
+
+    border: 4px, solid;
+    border-color: #242D38;
+    background-color: #EFD592;
+
+    top: calc(50% - 50px);
+    left: calc(50% - 120px);
+
+    font-size: 16px;
+    letter-spacing: 0.2em;
+    font-family: 'Poppins' , sans-serif;
+    text-transform: uppercase;
+}
